@@ -12,7 +12,7 @@ Repositorio con las prácticas y entregas de la asignatura.
 
 | Unidad | Práctica | Tema | Carpeta |
 | --- | --- | --- | --- |
-| — | — | Sin prácticas todavía | — |
+| — | Proyecto | Cumunda: diagrama de proceso (BPMN) | [cumunda](cumunda) |
 
 ## Contenido de cada práctica
 
