@@ -13,6 +13,7 @@ Repositorio con las prácticas y entregas de la asignatura.
 | Unidad | Práctica | Tema | Carpeta |
 | --- | --- | --- | --- |
 | — | Proyecto | Cumunda: diagrama de proceso (BPMN) | [cumunda](cumunda) |
+| 1 | AA 1 | Análisis de actores y fundamentos de Spec-Driven Development | [unidad-1/aa-1-actores-sdd](unidad-1/aa-1-actores-sdd/) |
 
 ## Contenido de cada práctica
 
